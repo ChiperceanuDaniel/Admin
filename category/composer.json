@@ -1,0 +1,15 @@
+{
+    "name": "lab215-station8/category",
+    "autoload": {
+        "psr-4": {
+            "Lab215Station8\\Category\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ChiperceanuDaniel",
+            "email": "chiperceanu.daniel@elev.cihcahul.md"
+        }
+    ],
+    "require": {}
+}
